@@ -42,7 +42,7 @@ Can you outsmart the killer and escape!
 
 ### Cemetery Card
 
-1 card
+1 card  
 ![](./img/04.png)
 
 
