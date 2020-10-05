@@ -32,30 +32,29 @@ Can you outsmart the killer and escape!
 9 cards  
 
 ![](./img/02.png)
-![](./img/03.png)
 
 
 ### Generator Card
 
 7 cards  
-![](./img/04.png)
+![](./img/03.png)
 
 
 ### Cemetery Card
 
 1 card
-![](./img/05.png)
+![](./img/04.png)
 
 
 ### Progress Token
 
 28 tokens  
-**画像を入れる**
+![](./img/05.png)
 
 ### Killer Token
 
-1 token
-**画像を入れる**
+1 token  
+![](./img/06.png)
 
 
 ## Story
@@ -103,7 +102,7 @@ Put **Progress Tokens** on the side of your field and make that the Progress Tok
 
 Put **Cemetery Card** to the side of your field and make it your cemetery.
 
-![](./img/06.png)
+![](./img/07.png)
 
 ## Victory Conditions
 
@@ -148,7 +147,7 @@ If there is more than one player playing the role of the survivor, they may choo
 The player playing the Killer should choose which Generator Card to go explore and place the Killer Token on it.
 (A Generator Card that is already in a state of repair cannot be selected.)
 
-![](./img/07.png)
+![](./img/08.png)
 
 ### B. Processing PhaseIn the Processing Phase, perform **B-1. Killer Processing** and then perform **B-2. Repair Processing**.
 #### B-1. Killer ProcessingFirst, turn up all the Action Cards on the Generator Card where the Killer Token was placed.
